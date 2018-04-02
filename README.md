@@ -1,2 +1,4 @@
-# web-movies
-Web de películas
+# movies
+
+Project to show films and rate them
+
